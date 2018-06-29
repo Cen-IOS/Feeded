@@ -1,1 +1,1 @@
-test: python "main.py"
+Success: python "main.py"
